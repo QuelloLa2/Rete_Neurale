@@ -25,32 +25,8 @@ How to Run
 
     Clone the repository:
 
-git clone https://github.com/<your_name>/<repository_name>.git
+git clone https://github.com/QuelloLa/Rete_Neurale.git
 
 Run the Python script:
 
     python3 neural_network.py
-
-Results
-
-At the end of training, the program will print the final error and the updated weights. It will also provide predictions for two test points.
-Example Output:
-
-P1 0.72165
-P2 0.34512
-B 0.98743
-
-Err: 0.00512
-P1 0.81265
-P2 0.45123
-B 0.89034
-
-Prediction [2, 2, 1]:
-Value: 1 - Predict: 0.98423
-
-Prediction [0.5, 0.5, 0]:
-Value: 0 - Predict: 0.11234
-
-Contributions
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. Any improvements to the code or suggestions are welcome!
