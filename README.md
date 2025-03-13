@@ -23,9 +23,7 @@ Technologies
 
 How to Run
 
-    Clone the repository:
-
-git clone https://github.com/QuelloLa2/Rete_Neurale.git
+    Clone the repository: git clone https://github.com/QuelloLa2/Rete_Neurale.git
 
 Run the Python script:
 
